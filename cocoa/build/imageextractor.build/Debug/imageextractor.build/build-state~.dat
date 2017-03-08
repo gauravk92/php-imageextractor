@@ -1,0 +1,98 @@
+Timageextractor
+v7
+r0
+t295677541.137218
+cCheck dependencies
+cProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BC09D8300000000000000EE
+t1270914435
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B25D6F80000000000B37440
+t1260771064
+s11760704
+
+N/Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor
+t2
+s0
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.LinkFileList
+c000000004BEF76E00000000000000086
+t1273984736
+s134
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o
+t2
+s0
+
+N/Users/gauravk92/Projects/imageextractor/imageextractor.m
+c000000004BEF76D300000000000004F5
+t1273984723
+s1269
+i<Foundation/Foundation.h>
+
+N/Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch
+c000000004BEF715500000000000000AA
+t1273983317
+s170
+i<Foundation/Foundation.h>
+
+N/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch
+t1273984740
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295677536#295677536#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295677540.870321
+e295677541.137009
+r0
+xCompileC
+xbuild/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o
+x/Users/gauravk92/Projects/imageextractor/imageextractor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m: In function 'main':
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: 'NSImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: (Each undeclared identifier is reported only once
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: for each function it appears in.)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: 'fgImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:22: error: 'bgImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:25: warning: passing argument 1 of 'NSLog' from incompatible pointer type
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:25: warning: format not a string literal and no format arguments
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'CGImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'fgCGImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'NSGraphicsContext' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'CGData' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'data' undeclared (first use in this function)
+lSLF07#2@65"Compile /Users/gauravk92/Projects/imageextractor/imageextractor.m295677540#295677541#0(1516"/Users/gauravk92/Projects/imageextractor/imageextractor.m: In function 'main':/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: 'NSImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: (Each undeclared identifier is reported only once/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: for each function it appears in.)/Users/gauravk92/Projects/imageextractor/imageextractor.m:21: error: 'fgImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:22: error: 'bgImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:25: warning: passing argument 1 of 'NSLog' from incompatible pointer type/Users/gauravk92/Projects/imageextractor/imageextractor.m:25: warning: format not a string literal and no format arguments/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'CGImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'fgCGImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:29: error: 'NSGraphicsContext' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'CGData' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'data' undeclared (first use in this function)10(4@49"'NSImage' undeclared (first use in this function)295677540#79#119#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#21#0#21#0#43"'*' undeclared (first use in this function)0(4@49"'fgImage' undeclared (first use in this function)295677540#420#119#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#21#0#21#0#43"'*' undeclared (first use in this function)0(4@49"'bgImage' undeclared (first use in this function)295677540#539#119#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#22#0#22#0#43"'*' undeclared (first use in this function)0(22@60"Passing argument 1 of 'NSLog' from incompatible pointer type295677540#658#132#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#25#0#25#0#56"passing argument * of '*' from incompatible pointer type0(22@51"Format not a string literal and no format arguments295677540#790#123#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#25#0#25#0#51"format not a string literal and no format arguments0(4@49"'CGImage' undeclared (first use in this function)295677540#913#119#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#29#0#29#0#43"'*' undeclared (first use in this function)0(4@51"'fgCGImage' undeclared (first use in this function)295677540#1032#121#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#29#0#29#0#43"'*' undeclared (first use in this function)0(4@59"'NSGraphicsContext' undeclared (first use in this function)295677540#1153#129#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#29#0#29#0#43"'*' undeclared (first use in this function)0(4@48"'CGData' undeclared (first use in this function)295677540#1282#118#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#31#0#31#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)295677540#1400#116#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295677523#31#0#31#0#43"'*' undeclared (first use in this function)0(0#0#57"/Users/gauravk92/Projects/imageextractor/imageextractor.m4300739032#1632"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch -c /Users/gauravk92/Projects/imageextractor/imageextractor.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o1#
+
+CLd /Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor normal x86_64
+r0
+
+CProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295677536.422041
+e295677540.870092
+r1
+xProcessPCH
+x/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch
+ximageextractor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile imageextractor_Prefix.pch295677536#295677540#0(0"0(0#0#66"/Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch7883884795575755776#1509"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -c /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch -o /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch0#
+

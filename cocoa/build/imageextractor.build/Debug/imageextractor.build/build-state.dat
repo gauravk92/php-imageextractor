@@ -1,0 +1,283 @@
+Timageextractor
+v7
+r0
+t295725790.677309
+cCheck dependencies
+cProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch.pth imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/NSImage-CGImageConversion.o /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BC09D8300000000000000EE
+t1270914435
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004BA713C6000000000001A384
+t1269240774
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004BA713C70000000000003430
+t1269240775
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BA713C70000000000082ED0
+t1269240775
+s536272
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B90C8A60000000000000AF4
+t1267779750
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004BA713C800000000000036E0
+t1269240776
+s14048
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BA3A7B100000000000000BF
+t1269016497
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BA713C800000000000A2AAC
+t1269240776
+s666284
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B25D6F80000000000B37440
+t1260771064
+s11760704
+
+N/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.h
+c000000004BEF87EC0000000000000B1D
+t1273989100
+s2845
+i<Cocoa/Cocoa.h>
+
+N/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m
+c000000004BEF89D70000000000000B0A
+t1273989591
+s2826
+i"NSImage-CGImageConversions.h"
+
+N/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversions.h
+c000000004BEF88A9000000000000007C
+t1273989289
+s124
+i<Cocoa/Cocoa.h>
+
+N/Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor
+t1274032990
+s21880
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/NSImage-CGImageConversion.o
+t1273989593
+s11980
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.LinkFileList
+c000000004BEF880E0000000000000117
+t1273989134
+s279
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o
+t1274032990
+s18896
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/StaticAnalyzer/normal/x86_64/NSImage-CGImageConversion.plist
+t1274029019
+s13845
+
+N/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/StaticAnalyzer/normal/x86_64/imageextractor.plist
+t2
+s0
+
+N/Users/gauravk92/Projects/imageextractor/imageextractor.m
+c000000004BF05399000000000000228F
+t1274041241
+s8847
+i<Foundation/Foundation.h>
+i<Cocoa/Cocoa.h>
+i<CoreFoundation/CoreFoundation.h>
+i<ApplicationServices/ApplicationServices.h>
+i"NSImage-CGImageConversions.h"
+
+N/Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch
+c000000004BEF715500000000000000AA
+t1273983317
+s170
+i<Foundation/Foundation.h>
+
+N/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-emfqfjvsxmfuvwdhdcccvemloyxc/imageextractor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch
+t1273984740
+s41401104
+
+N/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch.pth
+t1273985560
+s6529912
+
+CAnalyze /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m
+s295721819.481146
+e295721819.842204
+r1
+xAnalyze
+x/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m
+o/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m:65:19: warning: Potential leak of an object allocated on line 65
+o         CGImageRef img = CGImageCreate( width, height, 8, 32, rowBytes, colorspace, bitsInfo, provider, NULL, NO, kCGRenderingIntentDefault );
+o                          ^
+o/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m:54:26: warning: Potential leak of an object allocated on line 54
+o         NSBitmapImageRep*       bm = [[self bitmap] retain]; // data provider will release this
+o                                       ^
+o2 diagnostics generated.
+lSLF07#2@76"Analyze /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295721819#295721819#0(603"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m:65:19: warning: Potential leak of an object allocated on line 65         CGImageRef img = CGImageCreate( width, height, 8, 32, rowBytes, colorspace, bitsInfo, provider, NULL, NO, kCGRenderingIntentDefault );                          ^/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m:54:26: warning: Potential leak of an object allocated on line 54         NSBitmapImageRep*       bm = [[self bitmap] retain]; // data provider will release this                                       ^2 diagnostics generated.2(0@48"Potential leak of an object allocated on line 54295721819#18446744073709551615#0#6(17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#2#54#2#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#26#54#38#21@82"Method returns an Objective-C object with a +0 retain count (non-owning reference)295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#26#0#0#0"1(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#26#54#38#82"Method returns an Objective-C object with a +0 retain count (non-owning reference)17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#26#54#38#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#25#54#46#21@65"Reference count incremented. The object now has a +1 retain count295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#25#0#0#0"2(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#25#54#46#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#26#54#38#65"Reference count incremented. The object now has a +1 retain count17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#25#54#46#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#61#2#61#18#21@113"Object allocated on line 54 is no longer referenced after this point and has a retain count of +1 (object leaked)295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#61#2#0#0#0"1(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#61#2#61#18#113"Object allocated on line 54 is no longer referenced after this point and has a retain count of +1 (object leaked)6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#61#2#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@48"Potential leak of an object allocated on line 65295721819#18446744073709551615#0#6(17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#54#2#54#2#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#2#65#2#17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#2#65#2#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#19#65#134#21@107"Call to function 'CGImageCreate' returns a Core Foundation object with a +1 retain count (owning reference)295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#19#0#0#0"1(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#19#65#134#107"Call to function 'CGImageCreate' returns a Core Foundation object with a +1 retain count (owning reference)17@0"295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#0"0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#0#0#0#0#1(3@6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#65#19#65#134#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#70#7#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#0#0#0"2(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#70#11#6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#9#70#11#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@249"Object allocated on line 65 is returned from a method whose name ('cgImage') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)295721819#18446744073709551615#0#0(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#0#0#0"1(6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#70#7#249"Object allocated on line 65 is returned from a method whose name ('cgImage') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682391#70#2#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m4300739032#1708"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch --analyze /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/StaticAnalyzer/normal/x86_64/NSImage-CGImageConversion.plist0#
+
+CAnalyze /Users/gauravk92/Projects/imageextractor/imageextractor.m
+s295724714.330688
+e295724714.653513
+r1
+xAnalyze
+x/Users/gauravk92/Projects/imageextractor/imageextractor.m
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:46: error: expected ')'
+o         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);
+o                                                     ^
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:52: note: instantiated from:
+o         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);
+o                                                           ^
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:46: note: to match this '('
+o         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);
+o                                                     ^
+oIn file included from /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch:6:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:43:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBundle.h:11:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFError.h:33:
+o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h:151:76: note: instantiated from:
+o #define CFSTR(cStr)  ((CFStringRef) __builtin___CFStringMakeConstantString ("" cStr ""))
+o                                                                            ^
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:50:69:{50:41-50:68}{50:69-50:73}: error: too many arguments to function call
+o     CGColorSpaceRef genericColorSpace = CGColorSpaceCreateDeviceRGB(NULL);
+o                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^~~~
+oIn file included from /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch:6:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:22:
+o/Developer/usr/lib/clang/1.1/include/stddef.h:38:14: note: instantiated from:
+o #define NULL ((void*)0)
+o              ^~~~~~~~~~
+o3 diagnostics generated.
+lSLF07#2@65"Analyze /Users/gauravk92/Projects/imageextractor/imageextractor.m295724714#295724714#0(2342"/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:46: error: expected ')'         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);                                                     ^/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:52: note: instantiated from:         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);                                                           ^/Users/gauravk92/Projects/imageextractor/imageextractor.m:16:46: note: to match this '('         CFURLRef url = CFURLCreateWithString( NULL, CFSTR(str), NULL);                                                     ^In file included from /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch:6:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:43:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBundle.h:11:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFError.h:33:/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h:151:76: note: instantiated from: #define CFSTR(cStr)  ((CFStringRef) __builtin___CFStringMakeConstantString ("" cStr ""))                                                                            ^/Users/gauravk92/Projects/imageextractor/imageextractor.m:50:69:{50:41-50:68}{50:69-50:73}: error: too many arguments to function call     CGColorSpaceRef genericColorSpace = CGColorSpaceCreateDeviceRGB(NULL);                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^~~~In file included from /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch:6:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:22:/Developer/usr/lib/clang/1.1/include/stddef.h:38:14: note: instantiated from: #define NULL ((void*)0)              ^~~~~~~~~~3 diagnostics generated.1(25@46"Analyzer skipped this file due to parse errors295724714#18446744073709551615#0#1(25@12"expected ')'295724714#18446744073709551615#0#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295724710#16#0#16#0#0"0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295724710#0#0#0#0#0"0(0#0#57"/Users/gauravk92/Projects/imageextractor/imageextractor.m4300739032#1686"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch --analyze /Users/gauravk92/Projects/imageextractor/imageextractor.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/StaticAnalyzer/normal/x86_64/imageextractor.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295725790#295725790#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/NSImage-CGImageConversion.o /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s295682393.258671
+e295682393.479037
+r1
+xCompileC
+xbuild/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/NSImage-CGImageConversion.o
+x/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m295682393#295682393#0(0"0(0#0#68"/Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m4300739032#1690"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch -c /Users/gauravk92/Projects/imageextractor/NSImage-CGImageConversion.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/NSImage-CGImageConversion.o0#
+
+CCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295678301.508590
+e295678302.152084
+r0
+xCompileC
+xbuild/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o
+x/Users/gauravk92/Projects/imageextractor/imageextractor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m: In function 'main':
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'CGImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: (Each undeclared identifier is reported only once
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: for each function it appears in.)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'fgCGImage' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:33: error: 'CGData' undeclared (first use in this function)
+o/Users/gauravk92/Projects/imageextractor/imageextractor.m:33: error: 'data' undeclared (first use in this function)
+lSLF07#2@65"Compile /Users/gauravk92/Projects/imageextractor/imageextractor.m295678301#295678302#0(775"/Users/gauravk92/Projects/imageextractor/imageextractor.m: In function 'main':/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'CGImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: (Each undeclared identifier is reported only once/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: for each function it appears in.)/Users/gauravk92/Projects/imageextractor/imageextractor.m:31: error: 'fgCGImage' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:33: error: 'CGData' undeclared (first use in this function)/Users/gauravk92/Projects/imageextractor/imageextractor.m:33: error: 'data' undeclared (first use in this function)4(4@49"'CGImage' undeclared (first use in this function)295678302#79#119#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295678301#31#0#31#0#43"'*' undeclared (first use in this function)0(4@51"'fgCGImage' undeclared (first use in this function)295678302#420#121#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295678301#31#0#31#0#43"'*' undeclared (first use in this function)0(4@48"'CGData' undeclared (first use in this function)295678302#541#118#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295678301#33#0#33#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)295678302#659#116#0(6@57"/Users/gauravk92/Projects/imageextractor/imageextractor.m295678301#33#0#33#0#43"'*' undeclared (first use in this function)0(0#0#57"/Users/gauravk92/Projects/imageextractor/imageextractor.m4300739032#1632"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch -c /Users/gauravk92/Projects/imageextractor/imageextractor.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o1#
+
+CCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s295725790.415459
+e295725790.634273
+r1
+xCompileC
+xbuild/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o
+x/Users/gauravk92/Projects/imageextractor/imageextractor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@65"Compile /Users/gauravk92/Projects/imageextractor/imageextractor.m295725790#295725790#0(0"0(0#0#57"/Users/gauravk92/Projects/imageextractor/imageextractor.m4300739032#1668"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -include /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch -c /Users/gauravk92/Projects/imageextractor/imageextractor.m -o /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o0#
+
+CCompileC build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.o /Users/gauravk92/Projects/imageextractor/imageextractor.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CLd /Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor normal x86_64
+s295725790.634358
+e295725790.677264
+r1
+xLd
+x/Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor
+xnormal
+xx86_64
+lSLF07#2@72"Link /Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor295725790#295725790#0(0"0(0#0#0"4300739032#630"    cd /Users/gauravk92/Projects/imageextractor    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gauravk92/Projects/imageextractor/build/Debug -F/Users/gauravk92/Projects/imageextractor/build/Debug -filelist /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/Objects-normal/x86_64/imageextractor.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework Cocoa -framework CoreFoundation -framework ApplicationServices -o /Users/gauravk92/Projects/imageextractor/build/Debug/imageextractor0#
+
+CProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-emfqfjvsxmfuvwdhdcccvemloyxc/imageextractor_Prefix.pch.gch imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295677536.422041
+e295677540.870092
+r1
+xProcessPCH
+x/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch
+ximageextractor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile imageextractor_Prefix.pch295677536#295677540#0(0"0(0#0#66"/Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch7883884795575755776#1509"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -c /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch -o /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-faokachaibdrwfcdrawjemdwwrrk/imageextractor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch.pth imageextractor_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s295678359.185144
+e295678360.479424
+r1
+xProcessPCH
+x/var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch.pth
+ximageextractor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@36"Precompile imageextractor_Prefix.pch295678359#295678360#0(0"0(0#0#66"/Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch4300739032#1545"    cd /Users/gauravk92/Projects/imageextractor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-generated-files.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-own-target-headers.hmap -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-all-target-headers.hmap -iquote /Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/imageextractor-project-headers.hmap -F/Users/gauravk92/Projects/imageextractor/build/Debug -I/Users/gauravk92/Projects/imageextractor/build/Debug/include -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources/x86_64 -I/Users/gauravk92/Projects/imageextractor/build/imageextractor.build/Debug/imageextractor.build/DerivedSources -c /Users/gauravk92/Projects/imageextractor/imageextractor_Prefix.pch -o /var/folders/cM/cMsqIGu+FfGgk7wPUIQMDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/imageextractor_Prefix-fmwubywwnmykjketrzselobpjbia/imageextractor_Prefix.pch.pth0#
+
